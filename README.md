@@ -17,6 +17,26 @@ Founders and developers with no dedicated security team.
 - **Plain-English explanations** (no security jargon)
 - **Actionable fixes** (PRs, steps, scripts - coming soon)
 
+## 📸 Screenshots
+
+### API Documentation (Swagger UI)
+
+The interactive API documentation provides a clean interface to explore and test all endpoints:
+
+![Swagger UI Main](screenshots/swagger-main.png)
+
+### Scan Endpoint
+
+The `/scan` endpoint allows you to scan any GitHub repository for exposed secrets:
+
+![Scan Endpoint](screenshots/swagger-scan-endpoint.png)
+
+### API Root Response
+
+The root endpoint provides an overview of available endpoints:
+
+![API Root](screenshots/api-root-response.png)
+
 ## 🚀 Quick Start
 
 ### Prerequisites
