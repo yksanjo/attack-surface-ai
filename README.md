@@ -1,5 +1,12 @@
 # attack-surface-ai
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/attack-surface-ai/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/attack-surface-ai/actions)
+![License](https://img.shields.io/github/license/yksanjo/attack-surface-ai)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/attack-surface-ai)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/attack-surface-ai)
+
 ## Detailed Description
 
 attack-surface-ai is maintained as an industry-grade software project with production-ready engineering practices.  
